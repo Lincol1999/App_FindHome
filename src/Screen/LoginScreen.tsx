@@ -22,7 +22,7 @@ export const LoginScreen = () => {
 
             <View style={{ flex: 1, alignItems: 'center' }}>
                 <Image
-                    source={require('../../assets/images/Login/')}
+                    source={require('../../assets/images/fondo.png')}
                 />
             </View>
 

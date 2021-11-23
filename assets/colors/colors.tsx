@@ -3,5 +3,7 @@ export const ColorsTheme = {
     colorPrimary: '#13497B',
     colorSecundary: '#FFFFFF',
     colorDescription: '#AEB0B3',
+    BackgroundColor: '#F7FAFE',
+    ColorSearch: '#7192B0'
 }
 
